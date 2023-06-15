@@ -1,13 +1,15 @@
 +++
-title = "About me"
+title = "Lars und Flurin"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+## Lars und Flurin
 
-mail@example.org
+lars.allenbach@stud.gymininterlaken.ch
 
-Here should be some info about me...
+flurin.luethi@stud.gyminterlaken.ch
+
+Schüler des Gymnasiums Interlaken
